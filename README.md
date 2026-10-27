@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**francesco-capo/francesco-capo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I am Francesco
 
-Here are some ideas to get you started:
+🎓 I am studying Aerospace engineering at Polimi 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✈️🏎️ Aviation and motorsport fan
+
+🔨 In my free time I like building and repairing stuff
+
+---
+
+## 🧑‍💻 Personal goals
+
+- I am looking for an internship in an aerospace company/startup to apply my knowledge in real problems and learn new skills in an actual enviroment
+
+## 🚀 My projects
+
+### 🔹 RC car
+Small RC car realized for a school project. Based on Arduino and basic electronics.
+
+🔗 [Look at the project](LINK_REPOSITORY)
+
+
+## 📚 I am currently learning:
+
+- Python
+- OpenFoam
+
+## 📫 Contacts
+
+- 💼 **LinkedIn:** www.linkedin.com/in/francesco-capozzoli-95a051351
+- 📧 **Email:** francesco.capo2006@gmail.com
+
+
+---
+
+⭐ *Thanks for visiting my profile!*
