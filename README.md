@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 Personal goals
 
-- I am looking for an internship in an aerospace company/startup to apply my knowledge in real problems and learn new skills in an actual enviroment
+- I am looking for an internship in an aerospace company/startup to apply my knowledge in real problems and learn new skills in an actual environment
 
 ## 🚀 My projects
 
