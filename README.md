@@ -16,7 +16,7 @@
 ## 🚀 My projects
 
 ### 🔹 RC car
-Small RC car controlled by the smartphone realized for a school project. Based on Arduino,ESP32 and basic electronics.
+Small RC car controlled by the smartphone. Based on Arduino,ESP32 and basic electronics.
 
 🔗 [Look at the project](https://github.com/francesco-capo/RC-car.git)
 
